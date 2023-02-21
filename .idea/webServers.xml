@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="82eac995-4c57-4eb6-81c4-11fe0fbf10f5" name="beta_halykmart.kz" url="http://beta.halykmart.kz">
+        <fileTransfer rootFolder="/wp-content/themes/mega-store-woocommerce" host="beta.halykmart.kz" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
